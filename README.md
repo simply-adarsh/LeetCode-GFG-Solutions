@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/simply-adarsh/LeetCode-GFG-Solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/simply-adarsh/LeetCode-GFG-Solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/simply-adarsh/LeetCode-GFG-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/simply-adarsh/LeetCode-GFG-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
